@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" nextobjectid="23">
+ <tileset firstgid="1" name="steampunk_celuna_set_01bb" tilewidth="32" tileheight="32">
+  <image source="steampunk_celuna_set_01bb.png" width="626" height="630"/>
+ </tileset>
+ <layer name="first_layer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzl1UsKgDAMBNC49HK5We8sQgul5DOxtUFczEZxHpIamYi45jzsML2Tu7uQnOZq96Vkuajfu+2a5lo9Wa7kW2bERd8JcaWe0Y32RlzpuSz3ae+fXPQ8e25kN6Df70p3dmdortcV2S273f4/t9pF5+/NasZFgswFzQ7jC7kA5TDdyw==
+  </data>
+ </layer>
+ <objectgroup name="second_obj_layer">
+  <object id="1" name="1" x="24" y="536" width="16" height="16"/>
+  <object id="2" name="2" x="120" y="536" width="16" height="16"/>
+  <object id="3" name="3" x="120" y="224" width="16" height="16"/>
+  <object id="4" name="4" x="160" y="184" width="16" height="24"/>
+  <object id="5" name="5" x="152" y="48" width="24" height="24"/>
+  <object id="6" name="6" x="280" y="56" width="8"/>
+  <object id="7" name="7" x="280" y="504" width="16" height="16"/>
+  <object id="8" name="8" x="376" y="512" width="16" height="16"/>
+  <object id="9" name="9" x="376" y="376" width="16" height="16"/>
+  <object id="10" name="10" x="544" y="368" width="8" height="16"/>
+  <object id="11" name="11" x="544" y="184" width="8" height="16"/>
+  <object id="12" name="12" x="416" y="152" width="8" height="16"/>
+  <object id="13" name="13" x="408" y="48" width="24" height="24"/>
+  <object id="14" name="14" x="696" y="56" width="16" height="16"/>
+  <object id="15" name="15" x="760" y="120" width="16" height="16"/>
+  <object id="16" name="16" x="800" y="160" width="8" height="16"/>
+  <object id="17" name="17" x="800" y="312" width="8" height="16"/>
+  <object id="18" name="18" x="696" y="408" width="16" height="16"/>
+  <object id="19" name="19" x="704" y="504" width="16" height="16"/>
+  <object id="20" name="20" x="792" y="512" width="16" height="16"/>
+  <object id="21" name="21" x="824" y="544" width="16" height="16"/>
+  <object id="22" name="22" x="928" y="544" width="16" height="16"/>
+ </objectgroup>
+</map>

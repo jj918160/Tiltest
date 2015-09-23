@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="20">
+ <tileset firstgid="1" name="steampunk_celuna_set_01bb" tilewidth="32" tileheight="32">
+  <image source="steampunk_celuna_set_01bb.png" width="626" height="630"/>
+ </tileset>
+ <layer name="first_layer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzrZWBg6B3FVMVlWPBgNA+dTa5dA2EeNjlSzMPmpsFg3khVhysc0dVZoWFKzesgUh2xfptNonn4cCcW/6L7nRTz5hDhflIxAOKYzjo=
+  </data>
+ </layer>
+ <objectgroup name="second_obj_layer">
+  <object id="5" name="2" x="184" y="528" width="16" height="16"/>
+  <object id="6" name="3" x="192" y="136" width="8" height="24"/>
+  <object id="8" name="4" x="280" y="152" width="16" height="16"/>
+  <object id="9" name="5" x="288" y="304" width="16" height="16"/>
+  <object id="10" name="6" x="416" y="304" width="8" height="16"/>
+  <object id="11" name="7" x="416" y="208" width="8" height="16"/>
+  <object id="12" name="8" x="512" y="216" width="16" height="8"/>
+  <object id="13" name="9" x="512" y="464" width="16" height="16"/>
+  <object id="14" name="10" x="352" y="472" width="8" height="8"/>
+  <object id="15" name="11" x="352" y="568" width="16" height="8"/>
+  <object id="16" name="12" x="608" y="568" width="8" height="8"/>
+  <object id="18" name="1" x="8" y="536"/>
+ </objectgroup>
+</map>

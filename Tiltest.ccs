@@ -1,0 +1,66 @@
+<Solution>
+  <PropertyGroup Name="Tiltest" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="1544.1.png" />
+        <Image Name="2556.0.png" />
+        <Image Name="2760.0.png" />
+        <Image Name="2780.0.png" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Folder Name="cocui">
+          <Image Name="10.0.png" />
+          <Image Name="11.0.png" />
+          <Image Name="1209.0.png" />
+          <Image Name="1210.0.png" />
+          <Image Name="1214.0.png" />
+          <Image Name="1215.0.png" />
+          <Image Name="123.0.png" />
+          <Image Name="1268.0.png" />
+          <Image Name="1269.0.png" />
+          <Image Name="1270.0.png" />
+          <Image Name="2776.0.png" />
+          <Image Name="2809.0.png" />
+          <Image Name="3150.0.png" />
+          <Image Name="35.0.png" />
+          <Image Name="9.0.png" />
+          <Image Name="2805.0.png" />
+          <Image Name="1304.0.png" />
+          <Image Name="2810.0.png" />
+          <Image Name="2811.0.png" />
+          <Image Name="2813.0.png" />
+          <Image Name="2814.0.png" />
+          <Image Name="fanwei.png" />
+          <Image Name="2789.0.png" />
+          <Image Name="2790.0.png" />
+        </Folder>
+        <Project Name="message.csd" Type="Layer" />
+        <Folder Name="message">
+          <Image Name="1210.0.png" />
+          <Image Name="1310.3.png" />
+          <Image Name="1483.0.png" />
+          <Image Name="1484.0.png" />
+          <Image Name="1509.0.png" />
+          <Image Name="1511.0.png" />
+          <Image Name="2556.0.png" />
+          <Image Name="878.0.png" />
+          <Image Name="884.0.png" />
+          <Image Name="885.0.png" />
+          <Image Name="886.0.png" />
+          <Image Name="CG-1068.png" />
+          <Image Name="CG-1155.png" />
+          <Image Name="CG-1709.png" />
+          <Image Name="CG-1712.png" />
+          <Image Name="CG-7048.png" />
+          <Image Name="32.0.png" />
+          <Image Name="10.0.png" />
+        </Folder>
+        <Project Name="buildLayer.csd" Type="Layer" />
+        <Project Name="begin.csd" Type="Layer" />
+        <Project Name="Scene3D.csd" Type="Scene3D" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
